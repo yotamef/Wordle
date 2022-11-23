@@ -1,0 +1,44 @@
+#main {
+    text-align: center;
+    direction: rtl;
+    margin-top: 2px;
+}
+.row {
+    margin-top: 10px;
+    margin-bottom: 10px;
+
+}
+
+.gameText {
+    direction: rtl;
+    width: 60px;
+    height: 60px;
+    border-radius: 6px;
+    align-content: center;
+    text-align: center;
+    font-size: 35px;
+    margin-left: 2px;
+    margin-right: 2px;
+
+}
+
+.green {
+    background: limegreen;
+    color: white;
+}
+.gray {
+    background: gray;
+    color: white;
+}
+.orange {
+    background: orange;
+    color: white;
+}
+
+#button {
+    width: 50px;
+    height: 50px;
+}
+var {
+    font-size: 0px;
+}
